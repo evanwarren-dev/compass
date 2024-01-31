@@ -1,0 +1,5 @@
+ui/app/__pycache__
+__pycache__
+ui/_aux
+ui/_sass
+ui/env

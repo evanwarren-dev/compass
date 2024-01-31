@@ -18,8 +18,6 @@ from flask import (
 
 # _*** OTHER (env imports) ***_
 
-
-
 # **** APP ****
 # _*** INIT (app) ***_
 app=Flask(__name__)
